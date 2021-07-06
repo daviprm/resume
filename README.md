@@ -1,4 +1,6 @@
-<center><img src="assets/job.png" width="300px"></center>
+<div align="center">
+    <img src="assets/job.png" width="300px">
+</div>
 
 # 📃 Web Resume
 
