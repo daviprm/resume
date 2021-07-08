@@ -4,7 +4,7 @@
 
 # 📃 Web Resume
 
-📚 As vezes nos resumir é complicado, nós nem sabemos por onde começar. Este projeto tem como intuíto auxiliar o seu resumo técnico, permitindo que utilize algo semelhante em sua página ou resumo.
+📚 Template para resumos técnicos
 <br>
 https://daviprm.github.io/resume/
 
