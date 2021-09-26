@@ -2,16 +2,16 @@
     <img src="assets/job.png" width="300px">
 </div>
 
-# 📃 Web Resume
+# 📃 Resume
 
-📚 Template para resumos técnicos
+📚 Template for technical summary
 <br>
 https://daviprm.github.io/resume/
 
 <br>
 
 
-### 📌 Tecnologias Utilizadas
+### 📌 Technologies used
 <br>
 
 <div>
